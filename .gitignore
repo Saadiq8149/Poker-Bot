@@ -1,0 +1,11 @@
+*.o
+*.obj
+*.out
+*.exe
+rps
+a.out
+build/
+cmake-build-*/
+CMakeFiles/
+CMakeCache.txt
+Makefile
